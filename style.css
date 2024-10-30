@@ -33,7 +33,7 @@ color:whitesmoke;
 .mainbody{
     background-image: url(body.jpg);
     height: 100vh;
-    width: 50%;
+    width: 75%;
     margin:0px;
     background-size:contain;
     background-position: left;
