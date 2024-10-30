@@ -1,1 +1,3 @@
-# Stock
+Stock Front End
+
+A simple web page designed and developed using Html ,and  Css.This project is a simple webpage created using HTML and CSS, developed entirely within Visual Studio Code. By leveraging VSCode’s Live Server extension, I was able to view real-time changes during development, which streamlined the testing and debugging process. This project demonstrates foundational web design techniques, including layout structures, styling, and responsive design principles, making it adaptable to various screen sizes and devices. The code is structured with clean, organized HTML for easy readability and CSS for flexible styling, providing a robust framework for future enhancements.
