@@ -1,5 +1,5 @@
 *{
-    background-color: black;
+    background-color: #2E4053;
 }
 
 h1{
@@ -7,7 +7,8 @@ h1{
     width: fit-content;
     display: inline;
     font-size: 50px;
-    color:crimson;
+    font-family: 'Times New Roman', Times, serif;
+    color:whitesmoke;
 }
 .navbar{
     height: 50px;
@@ -15,7 +16,7 @@ h1{
   margin-top:20px;
   
   padding:4px;
-border: 1px solid pink;
+border: 1px solid #444444;
 display: flex;
 }
 .content{
@@ -25,17 +26,17 @@ margin: 50px;
 font-size: 20px;
 text-decoration: solid;
 text-shadow: 10px;
-color:chocolate;
+color:whitesmoke;
 
 }
 
 .mainbody{
     background-image: url(body.jpg);
     height: 100vh;
-    width: 100%;
+    width: 50%;
     margin:0px;
     background-size:contain;
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
 }
 #foo_content{
@@ -43,6 +44,6 @@ color:chocolate;
     align-content: flex-end;
 }
 .content:hover{
-    color:gold;
-    background-color: blanchedalmond;
+    color: #f7f7f7;;
+    background-color: #444444;
 }
